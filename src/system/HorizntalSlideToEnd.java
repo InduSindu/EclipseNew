@@ -1,4 +1,4 @@
-package slide1;
+package system;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Dimension;
